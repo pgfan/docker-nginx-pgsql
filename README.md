@@ -1,2 +1,3 @@
-# laravel-docker
-Laravel on nginx
+# docker-nginx-pgsql
+
+for Laravel
